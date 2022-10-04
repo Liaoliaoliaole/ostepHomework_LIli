@@ -1,0 +1,5 @@
+check linux kernel 1 source (version 1)
+ systemcalls table ----all function implementation
+
+scanf not using
+use fgets and atoi....
